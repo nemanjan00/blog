@@ -1,6 +1,8 @@
 title: New Github repo from cli
 date: 2015-11-01 15:23:21
 tags: [github, cli, fast-coding]
+thumbnail_image: github.png
+
 ---
 
 Since I found myself having to create a lot of github repos I wrote this simple bash function. 
