@@ -195,7 +195,7 @@ blockquote {
     font-size: 1.45rem; } }
 
 .postShorten-thumbnailimg--bottom > img {
-  width: 100%; }
+  width: 100% !important; }
 
 #about {
   display: none;
