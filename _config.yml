@@ -78,3 +78,9 @@ feed:
 
 # Posts displayed per page in list
 api_posts_per_page: 5
+
+admin:
+  username: nemanjan00
+  password_hash: 07bb70503404b290c02cda305
+  secret: ;)
+
