@@ -30,7 +30,7 @@ dokku mongo:create reportr
 dokku mongo:link reportr reportr
 ```
 
-3) MONGOLIB_URI
+3) MONGOLAB_URI
 
 Since, on heroku, URL for MongoDB is MONGOLAB_URI instead of MONGO_URL I had to create new environment variable. 
 
