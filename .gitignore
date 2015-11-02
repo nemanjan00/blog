@@ -8,3 +8,6 @@ db.json
 node_modules/
 public/
 .deploy*/
+
+_bower_components/
+
