@@ -1,7 +1,7 @@
 title: New Github repo from cli
 date: 2015-11-01 15:23:21
 tags: [github, cli, fast-coding]
-ThumbnailImage: github.png
+thumbnailImage: github.png
 
 ---
 
