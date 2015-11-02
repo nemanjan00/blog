@@ -1,7 +1,8 @@
 title: webpayload
 date: 2015-11-02 16:33:34
-tags: ["security", "metasploit"]
+tags: [security, metasploit]
 thumbnailImage: launch.jpg
+
 ---
 
 [webpayload](https://github.com/nemanjan00/webpayload) is something pentesting community have missed out for some time now. Since I had to do some pentesting on my own servers, I decided to write this "patch". It is just a C wrapper for a metasploit payload (payload/linux/x64/shell_reverse_tcp) providing Dynamic DNS support. 
