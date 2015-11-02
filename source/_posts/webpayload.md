@@ -1,7 +1,7 @@
 title: webpayload
 date: 2015-11-02 16:33:34
 tags: [security, metasploit]
-thumbnailImage: launch.jpg
+coverImage: launch.jpg
 
 ---
 
