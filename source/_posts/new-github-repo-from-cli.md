@@ -9,13 +9,13 @@ Since I found myself having to create a lot of github repos I wrote this simple 
 
 So, you just have to add this code to your **.bashrc**/**.zshrc** or to run it as bash script. 
 
-For GitHub authentication, you need to create **~/.github** file with content like this: 
-
-This script can be installed using bpkg: 
+Also, this script can be installed using bpkg: 
 
 ```bash
 bpkg install nemanjan00/githubrepo
 ```
+
+For GitHub authentication, you need to create **~/.github** file with content like this: 
 
 {% gist a2167f3e33895148dbba .github.example %}
 
