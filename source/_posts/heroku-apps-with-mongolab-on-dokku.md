@@ -3,7 +3,7 @@ date: 2015-11-01 13:07:43
 tags: [heroku2dokku, heroku, dokku]
 ---
 
-If you want to install Heroku app with MongoLab to Dokku, you can do that really easly. 
+If you want to install Heroku app with MongoLab to Dokku, you can do that really easy. 
 
 1) Install dokku-mongo plugin
 
