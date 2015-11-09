@@ -1,8 +1,6 @@
 title: musictime - torrent music player
 date: 2015-11-09 09:04:32
 tags:
-
-coverImage: https://raw.githubusercontent.com/nemanjan00/musictime/master/screenshots/01.jpg
 ---
 
 # musictime
