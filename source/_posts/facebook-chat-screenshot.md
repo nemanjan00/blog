@@ -1,6 +1,10 @@
 title: Facebook chat screenshot
 date: 2016-02-03 20:55:58
 tags:
+
+coverImage: facebook.jpg
+thumbnailImage: facebook.jpg
+
 ---
 
 I think a lot of people at one point needed screenshot of whole facebook conversation. So, I decided to develop firefox add-on to complete that task.
