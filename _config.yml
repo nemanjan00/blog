@@ -69,7 +69,7 @@ theme: tranquilpeak
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
 - type: heroku
-  repo: dokku@dokku.nemanjan00.org:hexo
+  repo: dokku@dokku.nemanja.top:hexo
 
 feed:
     type: atom
