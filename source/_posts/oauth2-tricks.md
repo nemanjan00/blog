@@ -77,7 +77,7 @@ function receiveMessage(event)
 What we now need is backend script that will grab token from code and send it to window that called it. 
 
 ```javascript
-opener.postMessage("put token here", "origin"); // To make sure noone steals token, use token
+opener.postMessage("put token here", "origin"); // To make sure noone steals token, use origin
 ```
 
 In window that needs to login, we are opening instagram login in popup and put link to that backend script in redirect. 
