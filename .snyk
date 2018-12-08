@@ -1,0 +1,65 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.13.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:hoek:20180212':
+    - hexo-deployer-heroku > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-generator-feed > nunjucks > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-generator-sitemap > nunjucks > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo > nunjucks > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-deployer-heroku > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-generator-sitemap > nunjucks > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo > hexo-cli > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-deployer-heroku > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo > nunjucks > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-generator-sitemap > nunjucks > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-deployer-git > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-generator-feed > nunjucks > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-deployer-git > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo > nunjucks > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-deployer-git > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-generator-feed > nunjucks > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo > hexo-cli > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo > hexo-cli > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-generator-feed > nunjucks > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-deployer-git > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-generator-sitemap > nunjucks > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo > nunjucks > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo-deployer-heroku > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+    - hexo > hexo-cli > hexo-fs > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2018-12-08T04:31:54.336Z'
+  'npm:uglify-js:20151024':
+    - hexo > swig > uglify-js:
+        patched: '2018-12-08T04:31:54.336Z'
